@@ -1,0 +1,359 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!doctype html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"chrome=1\">\n    <title>DALITS by darktunl</title>\n\n    <link rel=\"stylesheet\" href=\"stylesheets/styles.css\">\n    <link rel=\"stylesheet\" href=\"stylesheets/pygment_trac.css\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=no\">\n    <!--[if lt IE 9]>\n    <script src=\"//html5shiv.googlecode.com/svn/trunk/html5.js\"></script>\n    <![endif]-->\n  </head>\n  <body>\n    <div class=\"wrapper\">\n      <header>\n        <h1>DALITS</h1>\n        <p>Draw A Line In The Sand</p>\n\n        <p class=\"view\"><a href=\"https://github.com/darktunl/dalits\">View the Project on GitHub <small>darktunl/dalits</small></a></>\n\n\n        <ul>\n          <li><a href=\"https://github.com/darktunl/dalits/zipball/master\">Download <strong>ZIP File</strong></a></li>\n          <li><a href=\"https://github.com/darktunl/dalits/tarball/master\">Download <strong>TAR Ball</strong></a></li>\n          <li><a href=\"https://github.com/darktunl/dalits\">View On <strong>GitHub</strong></a></li>\n        </ul>\n      </header>\n      <section>\n        <h3>\n<a id=\"welcome-to-github-pages\" class=\"anchor\" href=\"#welcome-to-github-pages\" aria-hidden=\"true\"><span class=\"octicon octicon-link\"></span></a>Welcome to GitHub Pages.</h3>\n\n<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>\n\n<pre><code>$ cd your_repo_root/repo_name\n$ git fetch origin\n$ git checkout gh-pages\n</code></pre>\n\n<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>\n\n<h3>\n<a id=\"designer-templates\" class=\"anchor\" href=\"#designer-templates\" aria-hidden=\"true\"><span class=\"octicon octicon-link\"></span></a>Designer Templates</h3>\n\n<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>\n\n<h3>\n<a id=\"rather-drive-stick\" class=\"anchor\" href=\"#rather-drive-stick\" aria-hidden=\"true\"><span class=\"octicon octicon-link\"></span></a>Rather Drive Stick?</h3>\n\n<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>\n\n<h3>\n<a id=\"authors-and-contributors\" class=\"anchor\" href=\"#authors-and-contributors\" aria-hidden=\"true\"><span class=\"octicon octicon-link\"></span></a>Authors and Contributors</h3>\n\n<p>You can <a href=\"https://github.com/blog/821\" class=\"user-mention\">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href=\"https://github.com/defunkt\" class=\"user-mention\">@defunkt</a>), PJ Hyett (<a href=\"https://github.com/pjhyett\" class=\"user-mention\">@pjhyett</a>), and Tom Preston-Werner (<a href=\"https://github.com/mojombo\" class=\"user-mention\">@mojombo</a>) founded GitHub.</p>\n\n<h3>\n<a id=\"support-or-contact\" class=\"anchor\" href=\"#support-or-contact\" aria-hidden=\"true\"><span class=\"octicon octicon-link\"></span></a>Support or Contact</h3>\n\n<p>Having trouble with Pages? Check out the documentation at <a href=\"https://help.github.com/pages\">https://help.github.com/pages</a> or contact <a href=\"mailto:support@github.com\">support@github.com</a> and we’ll help you sort it out.</p>\n      </section>\n      <footer>\n        <p>This project is maintained by <a href=\"https://github.com/darktunl\">darktunl</a></p>\n        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href=\"https://github.com/orderedlist\">orderedlist</a></small></p>\n      </footer>\n    </div>\n    <script src=\"javascripts/scale.fix.js\"></script>\n              <script type=\"text/javascript\">\n            var gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"http://www.\");\n            document.write(unescape(\"%3Cscript src='\" + gaJsHost + \"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E\"));\n          </script>\n          <script type=\"text/javascript\">\n            try {\n              var pageTracker = _gat._getTracker(\"UA-51084386-2\");\n            pageTracker._trackPageview();\n            } catch(err) {}\n          </script>\n\n  </body>\n</html>",
+			"file": "index.html",
+			"file_size": 4989,
+			"file_write_time": 1424325964000000,
+			"settings":
+			{
+				"buffer_size": 4986,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "params.json",
+			"settings":
+			{
+				"buffer_size": 2054,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "javascripts/scale.fix.js",
+			"settings":
+			{
+				"buffer_size": 536,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stylesheets/pygment_trac.css",
+			"settings":
+			{
+				"buffer_size": 4168,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stylesheets/styles.css",
+			"settings":
+			{
+				"buffer_size": 3554,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 258.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Convert Case: Lower Case"
+			]
+		],
+		"width": 456.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tlee/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 4986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+							],
+							"spell_check": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "params.json",
+					"settings":
+					{
+						"buffer_size": 2054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2054,
+								2054
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "javascripts/scale.fix.js",
+					"settings":
+					{
+						"buffer_size": 536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 8.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "stylesheets/pygment_trac.css",
+					"settings":
+					{
+						"buffer_size": 4168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 13.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "stylesheets/styles.css",
+					"settings":
+					{
+						"buffer_size": 3554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
